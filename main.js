@@ -1,7 +1,7 @@
-//base by 𝐷𝛯𝛭𝛩𝛮-𝐵𝑈𝐺 (Phistar Bot Inc.)
+//base by 𝐷𝛯𝛭𝛩𝛮-𝐵𝑈𝐺 (𝛭𝑅.𝑅𝛩𝑌𝛥𝐿.𝐹𝛩𝑅𝐺𝛯𝑅 Bot Inc.)
 //YouTube: @
 //Instagram: @
-//Telegram: @𝐷𝛯𝛭𝛩𝛮-𝐵𝑈𝐺 
+//Telegram: @https://t.me/mr_royal_forger_ETN
 //GitHub: @MissAri
 //WhatsApp: +237620934302
 //want more free bot scripts? subscribe to my youtube channel: 
