@@ -1,4 +1,5 @@
 # DEMON_BUG
 Whatsapp bot coded by GOD FORGER
 
-![C5088CB0-6344-4C29-BD33-81BAAF418307](https://github.com/user-attachments/assets/2ad7acbe-c3df-4749-9ec7-db68ab4693d0)
+![18D3F4FE-9395-4C74-B6F4-47D1B702D005](https://github.com/user-attachments/assets/bb68b5ae-b4da-40c6-a50b-3552ac4d15b7)
+
