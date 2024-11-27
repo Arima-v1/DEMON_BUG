@@ -1,14 +1,13 @@
-//base by DGXeon (Xeon Bot Inc.)
+//base by 𝐷𝛯𝛭𝛩𝛮-𝐵𝑈𝐺 (Xeon Bot Inc.)
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
+//YouTube: @
 //Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +919366316018
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
+//Telegram: https://t.me/mr_royal_forger_ETN
+//GitHub: @MissAri1
+//WhatsApp: +237620934302 
 
 //contact details
-global.ownernomer = "22871255034"
+global.ownernomer = "237620934302"
 global.owner = ["237620934302"]
 global.ownername = "♱𝛭𝑅.𝑅𝛩𝑌𝛥𝐿 𝐹𝛩𝑅𝐺𝛯𝑅"
 global.ytname = "YT:𝐹𝛩𝑅𝐺𝛯𝑅"
